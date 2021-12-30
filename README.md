@@ -1,5 +1,7 @@
 # log4r
 
+## ⚠️⚠️ This was a joke for the rust subreddit, please don't actually use it for anything ⚠️⚠️
+
 log4r is a simple, secure and extensible logging implementation for rust.
 
 example:
